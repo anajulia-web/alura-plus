@@ -12,3 +12,43 @@ body {
          margin: 0;
          padding: 0;
 }
+.principal { background-imagem: url("img/Background.png");
+    background-repeat: no-repeat;
+    background-size: contain
+}
+.container {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.container_botao { background-color: var(--botao-azul);
+    border-radius: 50px;
+    padding: lem;color: var(--branco-principal);
+    display: block;
+    text-decoration: none;
+    margin-botton: lem;
+}
+
+.botao_secundario {
+    background-color: transparent;
+    border: 2px solid var(--branco-principal)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
